@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Bebas+Neue&family=Boogaloo&family=Courgette&family=Hurricane&family=Inspiration&family=Lobster&family=Pacifico&family=Permanent+Marker&family=Playball&family=Qahiri&display=swap');
+
+
+#logo{height: 80px;
+width: 150px;}
+nav{background-image: url(./coffeeimages/background\ 1.jpg);}
+.nav-link{color: white;}
+hr{color: saddlebrown;}
+#description{
+background-repeat: no-repeat;
+background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(./coffeeimages/descriptionbackground.jpg);
+background-size: cover;
+font-family: 'Permanent Marker', cursive;}
+#image {width: 100%;
+    height: 200px;
+    border-image:round;
+    
+border-radius: 150px;}
+    #image:hover{transform:rotate(45deg);}
+    #image2{width: 100%;
+        height: 200px;
+        border-image:round;
+        
+    border-radius: 200px;}
+        #image2:hover{transform:rotate(45deg);}
+
+    button{background-color: saddlebrown;
+        color: white;
+        border-radius: 20px;
+        height: 30px;
+        text-align: center;}
+        button:hover{background-color: wheat;
+        color: black;}
+    #sale{height: 180px;
+        
+    width: 180px;}
+    #sale:hover{box-shadow:0 3px 10px rgb(0 0 0 / 0.2);
+    
+        transform: translate(-30px, -30px);
+        }
+#shop{background-color: bisque;}
+#footer{background-image: url(./coffeeimages/background\ 1.jpg);
+height: 300px;}
+#bt{height: 75px;}
